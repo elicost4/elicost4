@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicost4&theme=merko_icons=true)
+
+
 <!--
 **elicost4/elicost4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
