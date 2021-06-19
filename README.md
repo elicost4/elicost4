@@ -1,4 +1,6 @@
-![head.png](https://i.imgur.com/Q0jcxrW.png)
+<img align='center' src="https://user-images.githubusercontent.com/78875464/122656555-f6412800-d131-11eb-8ee0-f467a7d3ae11.png" width="930">
+
+
 
 Hi there, thanks for stopping by, this is **Eliabe Costa**.
 
@@ -21,7 +23,7 @@ const eliabe = {
 
 ![Eliabe Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicost4&theme=dark&show_icons=true)
 
-![bottom.png](https://i.imgur.com/Fx8HdTG.png)
+<img align='center' src='https://i.imgur.com/Fx8HdTG.png)' width="930">
 
 <!--
 **elicost4/elicost4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
