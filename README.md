@@ -1,4 +1,4 @@
-<h3>Hi, I'am Eliabe! 👋🏽</h3>
+<h3>Hi, I'm Eliabe! 👋🏽</h3>
 
 - 💻 I'm studying: Computer Engineering (1/8)
 - 🧠 I'm currently learning: Spring, AngularJS and HTML / CSS / Javascript
