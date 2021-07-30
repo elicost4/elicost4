@@ -1,41 +1,40 @@
-<img align='center' src="https://user-images.githubusercontent.com/78875464/122656555-f6412800-d131-11eb-8ee0-f467a7d3ae11.png" width="930">
+<h3>Olá, eu sou o Eliabe! 👋🏽</h3>
 
+- 🌱 Estudando: Spring e Angular
+- 😄 Pronouns: Ele/He
 
+<div>
+   <a href="https://github.com/elicost4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicost4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicost4&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div>
+    <img src="https://komarev.com/ghpvc/?username=elicost4&color=green" alt="elicost4"/>
+</div>
+    
+<div style="display: inline_block"><br>
+   <i class="devicon-java-plain"></i>
+   <img align="center" alt="Eli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Eli-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Eli-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="Eli-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Eli-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Eli-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+    
+##
+    
+<div>
+    <h4>Contate-me:</h4>
+    <a href="mailto:eliabecostaa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/eliabecosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/elicost4" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.instagram.com/elicost4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+     
+    ![Snake animation](https://github.com/elicost4/elicost4/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
+    
 
-Hi there, thanks for stopping by, this is **Eliabe Costa**.
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
-```javascript
-const eliabe = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "soccer", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Angular"],
-            css: ["bootstrap"]
-        },
-        backEnd: ["Java", "Spring"],
-        databases: ["MySql"],
-    }
-};
-```
-
-![Eliabe Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicost4&theme=dark&show_icons=true)
-
-<img align='center' src='https://i.imgur.com/Fx8HdTG.png)' width="930">
-
-<!--
-**elicost4/elicost4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+    
