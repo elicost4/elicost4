@@ -21,7 +21,7 @@
    <img align="center" alt="Eli-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Eli-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Eli-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="right" alt="fun-cat" width="auto" height="auto" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47vqq55vq6sq5ya2adk39wi6sfgfx22ma5evcwzfre&rid=giphy.gif&ct=g">
+   <img align="right" alt="fun-cat" width="140px" height="140px" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47vqq55vq6sq5ya2adk39wi6sfgfx22ma5evcwzfre&rid=giphy.gif&ct=g">
   </div>
     
 ##
