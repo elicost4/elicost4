@@ -28,7 +28,7 @@
     
 <div>
     <h3>🤝🏽 Contact me:</h3>
-    <a alt="My-Email" href="mailto:eliabecostaa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a alt="My-Email" href="mailto:eliabe.cruz@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a alt="My-LinkedIn-Profile" href="https://www.linkedin.com/in/eliabecosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a alt="Link-For-My-Telegram-Number" href="https://t.me/elicost4" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <!-- <a alt="My-Instagram" href="https://www.instagram.com/elicost4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
